@@ -26,9 +26,9 @@ I'm an indie full-stack developer and content creator building my version of the
 
 ### 📊 Stats
 
-![Isuru's GitHub stats](https://github-readme-stats.vercel.app/api?username=isuruudararanaweera&show_icons=true&theme=gruvbox)
+![Isuru's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsuruUdaraRanaweera&show_icons=true&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=isuruudararanaweera&theme=gruvbox&border_radius=4.5) -->
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=IsuruUdaraRanaweera&theme=gruvbox&border_radius=4.5) -->
 
 #
 
