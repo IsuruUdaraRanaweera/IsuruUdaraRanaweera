@@ -4,7 +4,7 @@
 
 **`IT Undergraduate (SLIIT)`**
 
-I'm an IT undergraduate building my best version one step at a time.
+I'm an IT undergraduate, building my best version one step at a time.
 
 ### 🧰 Languages and Tools
 
